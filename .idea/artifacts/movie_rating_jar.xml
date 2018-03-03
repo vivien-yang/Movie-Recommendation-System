@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="movie-rating:jar">
+    <output-path>$USER_HOME$/Desktop/</output-path>
+    <root id="archive" name="movie-rating.jar">
+      <element id="module-output" name="movie-rating" />
+      <element id="extracted-dir" path="$USER_HOME$/scala/lib/scala-actors-2.11.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/scala/lib/scala-actors-migration_2.11-1.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/scala/lib/scala-library.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/scala/lib/scala-parser-combinators_2.11-1.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/scala/lib/scala-reflect.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/scala/lib/scala-swing_2.11-1.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/scala/lib/scala-xml_2.11-1.0.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
